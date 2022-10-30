@@ -75,24 +75,7 @@ int main(int argc, char **argv) {
     }
     cout<<"correct file"<<endl;
 
-//    for (int i = 0; i < x_arr.size(); ++i) {
-//        std::cout<<x_arr[i]<<"   |    "<<y_arr[i]<<std::endl;
-//    }
 
-//    std::ifstream myfile(filename);
-//    std::fstream f(filename);
-//
-//
-//    while (!f.eof()) {
-//        if (f.good()) {
-//            f >> x_coord >> y_coord;
-//            x_points.push_back(x_coord);
-//            y_points.push_back(y_coord);
-//        }
-//
-//    }
-//    f.close();
-    //int file_arr= read_file(filename,x_points,y_points);
 
 
     x_points.push_back(x_points[0]);
